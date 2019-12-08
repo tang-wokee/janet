@@ -14,7 +14,7 @@ export default new Router({
            component: RouterView,
            beforeEnter(to, from, next) {
              const lang = to.params.lang;
-             if (!["en", "de"].includes(lang)) return next("de");
+             if (!["en", "en"].includes(lang)) return next("en");
              if (i18n.locale !== lang) {
                i18n.locale = lang;
              }
@@ -40,7 +40,7 @@ export default new Router({
          },
          {
          path: "*",
-         redirect: "/de"
+         redirect: "/en"
          }
        ]
      });
