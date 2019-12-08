@@ -1,8 +1,10 @@
 // src/lang/index.js
-import zh from './translations/zh';
+import zh_TW from './translations/zh-Hant';
+import zh_CN from './translations/zh-Hans';
 import en from './translations/en';
 export default {
-    zh,
+    zh_CN,
+    zh_TW,
     en
 };
 
