@@ -13,6 +13,9 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+
+### URL : https://nxh912.github.io/about/
+
 ```
 
 ### Lints and fixes files
