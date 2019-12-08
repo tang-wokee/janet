@@ -14,7 +14,7 @@
 export default {
   name: 'LanguageSwitcher',
   data() {
-    return { langs: [ 'en', 'zh'] };
+    return { langs: [ 'zh-Hant', 'zh-Hans', 'en'] };
   }
 };
 </script>
