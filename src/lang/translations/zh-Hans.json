@@ -1,8 +1,9 @@
 {
-  "Name": "Ho, Ngai Lam",
-  "Name_Unicode": "Ho, Ngai Lam (%u4F55%u6BC5%u6797)",
-  "SUTD_Full": "%u65B0%u52A0%u5761%u79D1%u6280%u8A2D%u8A08%u5927%u5B78",
-  "ISTD_Full": "%u4FE1%u606F%u7CFB%u7D71%u6280%u8853%u8207%u8A2D%u8A08",
+  "Name": "Ho Ngai Lam",
+  "Name_Unicode": "&#20309;&#27589;&#26519; (Ho Ngai Lam)",
+  "SUTD_Full": "&#26032;&#21152;&#22369;&#31185;&#25216;&#35774;&#35745;&#22823;&#23398;",
+  "ISTD_Full": "&#36039;&#35338;&#31995;&#32479;&#25216;&#26415;&#19982;&#35774;&#35745;&#31995;",
+  "translation1": "zh1",
   "translation2": "zh2"
 }
 
