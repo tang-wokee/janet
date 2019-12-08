@@ -10,7 +10,7 @@ Vue.use(VueI18n);
 
 export const i18n = new VueI18n({
 	locale: 'zh-Hant',
-	fallbackLocale: 'en',
+	fallbackLocale: 'zh-Hant',
 	messages
     });
 
