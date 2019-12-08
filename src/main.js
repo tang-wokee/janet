@@ -9,8 +9,8 @@ Vue.config.productionTip = false;
 Vue.use(VueI18n);
 
 export const i18n = new VueI18n({
-	locale: 'de',
-	fallbackLocale: 'de',
+	locale: 'en',
+	fallbackLocale: 'en',
 	messages
     });
 
